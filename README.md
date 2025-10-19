@@ -19,8 +19,8 @@ A modern and dynamic portfolio web application built with **Next.js**, blending 
 - Version Control: Git & GitHub
 
 ## 📸 Screenshots
-![Hero-section](/public/screenshots/hero.png)
-![About-section](/public/screenshots/about.png)
+![Hero-section](/public/screenshots/Nitish portfolio pic1.png)
+![About-section](/public/screenshots/Nitish portfolio pic2.png)
 
 ## ⚡ Installation & Usage
 
