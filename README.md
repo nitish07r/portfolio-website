@@ -26,7 +26,7 @@ A modern and dynamic portfolio web application built with **Next.js**, blending 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ChinmayOnGithub/portfolio.git
+git clone https://github.com/Nitish07r/portfolio.git
 cd portfolio
 ```
 
@@ -61,9 +61,9 @@ yarn dev
 
 ## 📬 Contact & Links
 
-- **Portfolio:** [chinmaydpatil.com](https://chinmaypatil.com)
-- **LinkedIn:** [chinmaydpatil](https://www.linkedin.com/in/chinmaydpatil/)
-- **GitHub:** [ChinmayOnGithub](https://github.com/ChinmayOnGithub)
+- **Portfolio:** [NitishKumar.com](https://NitishKumar.com)
+- **LinkedIn:** [NitishKumar](https://www.linkedin.com/in/nitish-kumar-s-ba8928247/)
+- **GitHub:** [Nitish07r](https://github.com/nitish07r)
 
 ---
 
